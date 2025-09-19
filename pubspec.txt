@@ -3,4 +3,7 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.8
+
   expansion_tile_card: ^3.0.0
+
+run flutter pub get for Updating the pubspec.ymal
