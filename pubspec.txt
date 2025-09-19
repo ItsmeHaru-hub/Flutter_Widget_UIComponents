@@ -1,0 +1,6 @@
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  expansion_tile_card: ^3.0.0
